@@ -3,7 +3,9 @@ body {
   color: black; }
 
 img {
-  width: 33%; }
+  width: 33%;
+  margin: 0 auto;
+  display: block; }
 
 h1 {
   text-align: center;
